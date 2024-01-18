@@ -1,4 +1,3 @@
-
 <img align="right" alt="Banner" width="100%" src="https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif">
 <h1 align="center">Hi 👋, I'm Haider Mukhtar</h1>
 <h3 align="center">A passionate Mobile Application Developer from Pakistan.</h3>
@@ -26,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haider-mukhtar&show_icons=true&locale=en&layout=compact" alt="haider-mukhtar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haider-mukhtar&show_icons=true&locale=en" alt="haider-mukhtar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=haider-mukhtar&show_icons=true&locale=en" alt="haider-mukhtar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haider-mukhtar&" alt="haider-mukhtar" /></p>
