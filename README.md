@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haider Mukhtar</h1>
 <h3 align="center">A passionate Mobile Application Developer from Pakistan.</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1ubmFuN3N0dHcxZWNhY3RlbnpmenA1bXNvYm84Y3lkcWEzaTJydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haider-mukhtar&label=Profile%20views&color=0e75b6&style=flat" alt="haider-mukhtar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haider-mukhtar" alt="haider-mukhtar" /></a> </p>
 
 - 🌱 I’m currently learning **React Native.**
 
@@ -29,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haider-mukhtar&show_icons=true&locale=en" alt="haider-mukhtar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haider-mukhtar&" alt="haider-mukhtar" /></p>
-
