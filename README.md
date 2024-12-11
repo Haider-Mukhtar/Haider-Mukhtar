@@ -1,4 +1,4 @@
-<img align="right" alt="Banner" width="100%" src="https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif">
+<img align="right" alt="Banner" width="100%" src="[https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif](https://media.licdn.com/dms/image/v2/D4D12AQHN58g4mUfHrA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1679867911154?e=2147483647&v=beta&t=zL4ShFkjnh3uRQZnrHMZnHUBYlhv5aaJiwNoKDts7K8)">
 <h1 align="center">Hi 👋, I'm Haider Mukhtar</h1>
 <h3 align="center">A passionate React Developer from Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1ubmFuN3N0dHcxZWNhY3RlbnpmenA1bXNvYm84Y3lkcWEzaTJydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
