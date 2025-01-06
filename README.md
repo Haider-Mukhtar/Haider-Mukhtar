@@ -7,7 +7,7 @@
 💬 Ask me about HTML, Tailwind CSS, React JS, and React Native.<br>
 📬 How to reach me haidermukhtarch405@gmail.com <br>
   <a href="https://haidermukhtar.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logoColor=#3b82f6" width="100" height="40" alt="portfolio btn"  />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logoColor=#3b82f6" width="100" height="40" alt="portfolio "  />
   </a>
 
 ## 🌐 Socials:
@@ -42,9 +42,9 @@
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-<div align="center">
+
 <img src="https://raw.githubusercontent.com/Haider-Mukhtar/Haider-Mukhtar/output/snake.svg" alt="Snake animation" />
-</div>
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Haider-Mukhtar&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
