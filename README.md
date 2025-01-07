@@ -6,13 +6,10 @@
 🌱 I’m currently learning React JS.<br>
 💬 Ask me about HTML, Tailwind CSS, React JS, and React Native.<br>
 📬 How to reach me haidermukhtarch405@gmail.com <br>
-  <a href="https://haidermukhtar.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logoColor=#3b82f6" width="100" height="40" alt="portfolio "  />
-  </a>
 
 ## 🌐 Socials:
 <div align="left">
-  <a href="https://haidermukhtar.netlify.app/" target="_blank" title="Portfolio">
+  <a href="https://haidermukhtar.vercel.app/" target="_blank" title="Portfolio">
     <img src="./pic.png" width="52" height="40" alt="portfolio"  />
   </a>
   <a href="https://www.linkedin.com/in/haider-mukhtar/" target="_blank">
