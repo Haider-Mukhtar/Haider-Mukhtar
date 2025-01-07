@@ -6,12 +6,10 @@
 🌱 I’m currently learning React JS.<br>
 💬 Ask me about HTML, Tailwind CSS, React JS, and React Native.<br>
 📬 How to reach me haidermukhtarch405@gmail.com <br>
-
+📋 My portfolio <a href="https://haidermukhtar.vercel.app/" target="_blank" title="Portfolio">haidermukhtar.vercel.app</a>
+  
 ## 🌐 Socials:
 <div align="left">
-  <a href="https://haidermukhtar.vercel.app/" target="_blank" title="Portfolio">
-    <img src="./pic.png" width="52" height="40" alt="portfolio"  />
-  </a>
   <a href="https://www.linkedin.com/in/haider-mukhtar/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
