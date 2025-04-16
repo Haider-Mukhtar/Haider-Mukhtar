@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haider Mukhtar</h1>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Haider-Mukhtar&&style=flat-square" align="center" />
+</div> 
 <h3 align="center">A passionate React Developer from Lahore, Pakistan.</h3>
 
 ## 💫 About Me:
@@ -42,12 +45,10 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Haider-Mukhtar&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Haider-Mukhtar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haider-Mukhtar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Haider-Mukhtar&theme=dark&hide_border=false&include_all_commits=false&count_private=true" align="center" /></div>  <br/>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Haider-Mukhtar&theme=dark&hide_border=false" align="center" /></div>  <br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haider-Mukhtar&hide_border=false&theme=dark&layout=compact" align="center" /></div>  <br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Haider-Mukhtar&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
