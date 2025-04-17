@@ -31,6 +31,9 @@
   <a href="https://api.whatsapp.com/send/?phone=%2B92344603782&text=Hello%2C+How+can+I+help+you%3F&type=phone_number&app_absent=0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
+  <a href="https://medium.com/@haidermukhtar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@haidermukhtar" height="40" width="52" />
+  </a>
 </div>
 
 ## 💻 Tech Stack:
@@ -48,7 +51,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Haider-Mukhtar&theme=dark&hide_border=false&include_all_commits=false&count_private=true" align="center" /></div>  <br/>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Haider-Mukhtar&theme=dark&hide_border=false" align="center" /></div>  <br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haider-Mukhtar&hide_border=false&theme=dark&layout=compact" align="center" /></div>  <br/>
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
