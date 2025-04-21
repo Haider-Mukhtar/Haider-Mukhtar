@@ -6,7 +6,7 @@
 
 ## 💫 About Me:
 🔭 I’m currently working on HTML, Tailwind CSS React JS, and React Native.<br>
-🌱 I’m currently learning React JS.<br>
+🌱 I’m currently learning React JS and Node JS.<br>
 💬 Ask me about HTML, Tailwind CSS, React JS, and React Native.<br>
 📬 How to reach me haidermukhtarch405@gmail.com <br>
 📋 My portfolio <a href="https://haidermukhtar.vercel.app/" target="_blank" title="Portfolio">haidermukhtar.vercel.app</a>
