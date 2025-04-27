@@ -9,7 +9,7 @@
 🌱 I’m currently learning React JS and Node JS.<br>
 💬 Ask me about HTML, Tailwind CSS, React JS, and React Native.<br>
 📬 How to reach me haidermukhtarch405@gmail.com <br>
-📋 My portfolio <a href="https://haidermukhtar.vercel.app/" target="_blank" title="Portfolio">haidermukhtar.vercel.app</a>
+📋 My portfolio <a href="https://haidermukhtar.vercel.app/" target="_blank" title="Portfolio">haidermukhtar.vercel.app</a>.
   
 ## 🌐 Socials:
 <div align="left">
