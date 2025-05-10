@@ -5,7 +5,7 @@
 <h3 align="center">A passionate React Developer from Lahore, Pakistan.</h3>
 
 ## 💫 About Me:
-🔭 I’m currently working on HTML, Tailwind CSS React JS, and React Native.<br>
+🔭 I’m currently working on HTML, Tailwind CSS React JS, and React Native..<br>
 🌱 I’m currently learning React JS and Node JS.<br>
 💬 Ask me about HTML, Tailwind CSS, React JS, and React Native.<br>
 📬 How to reach me haidermukhtarch405@gmail.com <br>
