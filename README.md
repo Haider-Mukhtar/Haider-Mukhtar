@@ -86,6 +86,7 @@
 - [React Native (CLI) Firebase Push Notifications for Android 📱🔔](https://medium.com/@haidermukhtar/react-native-cli-firebase-push-notifications-for-android-4e8b1c36289a)
 - [Animated Chat Bar in React Native (Expo + Reanimated)
 ](https://medium.com/@haidermukhtar/animated-chat-bar-in-react-native-expo-reanimated-6ff9b54350fd)
+- [Stunning Animated Drawer Navigation Expo](https://medium.com/@haidermukhtar/stunning-animated-drawer-navigation-in-expo-react-native-fcc20b0cb21f)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
