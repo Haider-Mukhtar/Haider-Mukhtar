@@ -74,11 +74,12 @@
 
 <!-- ## 📊 GitHub Stats: -->
 <h2 align="center">📊 GitHub Stats</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haider-mukhtar&show_icons=true&locale=en&layout=compact&theme=dark" alt="haider-mukhtar" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haider-mukhtar&show_icons=true&locale=en&theme=dark" alt="haider-mukhtar" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haider-mukhtar&theme=dark" alt="haider-mukhtar" /></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haider-mukhtar&theme=dark" alt="haider-mukhtar" /></a> </p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haider-mukhtar&show_icons=true&locale=en&layout=compact&theme=react" alt="haider-mukhtar" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haider-mukhtar&show_icons=true&locale=en&theme=react" alt="haider-mukhtar" /></p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haider-mukhtar&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=haider-mukhtar&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> 
+</div>
 
 <!-- ### Blogs posts -->
 <h2 align="center">📄 Blogs posts</h2>
